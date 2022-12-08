@@ -4,7 +4,7 @@ author: "Connect with me!"
 role: "Click the icons below."
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "maybe the theme song to my life" # leave blank to exclude
+audio_link_label: "" # leave blank to exclude
 link_list_label: "current favorites" # bookmarks, elsewhere, etc.
 link_list:
 - name: books
