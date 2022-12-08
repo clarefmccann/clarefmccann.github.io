@@ -20,7 +20,7 @@ options(
   blogdown.serve_site.startup = TRUE,
   blogdown.ext = ".Rmd", 
   blogdown.author = "Clare F. McCann",
-  blogdown.subdir = "post")
+  blogdown.subdir = "post"
 )
 
 # fix Hugo version
