@@ -1,7 +1,7 @@
-baseURL = "https://clarefmccann.netlify.app"
+baseURL = "https://clarefmccann.rtudio.io"
 theme = "hugo-apero"
 languageCode = "en"
-title = "It's Me"
+title = "hey"
 author = "Clare F. McCann"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Welcome!"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["CV", "research", "outreach", "collaborators", "resources i like"]
+  mainSections = ["CV", "research", "outreach", "resources i like"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -111,7 +111,7 @@ enableEmoji = true
   # Configure header
   [[menu.header]]
     name = "about"
-    title = "about Me"
+    title = "about me"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -124,11 +124,6 @@ enableEmoji = true
     title = "outreach"
     url = "/outreach/"
     weight = 3
-  [[menu.header]]
-    name = "collaborators"
-    title = "collaborators"
-    url = "/collaborators/"
-    weight = 4
   [[menu.header]]
     name = "resources i like"
     title = "resources i like"
