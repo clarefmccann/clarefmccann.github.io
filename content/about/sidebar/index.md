@@ -1,18 +1,18 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
-role: "A Hugo theme"
+author: "Connect with me!"
+role: "Click the icons below."
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: "maybe the theme song to my life" # leave blank to exclude
+link_list_label: "current favorites" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: books
+  url: https://www.goodreads.com/review/list/144600000-clare-mccann?shelf=favorites
+- name: podcasts
+  url: https://quantitudepod.org/
+- name: fair uc now
+  url: https://www.fairucnow.org/
 ---
 
 ** index doesn't contain a body, just front matter above.

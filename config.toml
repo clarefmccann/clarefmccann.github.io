@@ -1,4 +1,4 @@
-baseURL = "https://clarefmccann.github.io/"
+baseURL = "https://clarefmccann.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "It's Me"
