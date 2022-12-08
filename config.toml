@@ -97,6 +97,10 @@ enableEmoji = true
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0002-8548-3536"
+  [[params.social]]
+      icon      = "spotify" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://open.spotify.com/episode/7uOcImpiHoC1El7sHmSjpy?si=b6ca86f425c544c6"
 
 [taxonomies]
   category = "categories"
