@@ -1,4 +1,4 @@
-baseURL = "https://clarefmccann.rtudio.io"
+baseURL = "https://clarefmccann.rstudio.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "hey"
@@ -26,6 +26,9 @@ enableEmoji = true
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/
     style = "github"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   orgName = "My Mom and Dad"
@@ -114,16 +117,21 @@ enableEmoji = true
     title = "about me"
     url = "/about/"
     weight = 1
+  [menu.header]]
+    name = "cv"
+    title = "cv"
+    url = "/cv/"
+    weight = 2
   [[menu.header]]
     name = "research"
     title = "research"
     url = "/research/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "outreach"
     title = "outreach"
     url = "/outreach/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "resources i like"
     title = "resources i like"
@@ -150,3 +158,8 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
