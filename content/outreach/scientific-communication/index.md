@@ -1,14 +1,15 @@
 ---
-author: Alison Hill
+author:
 categories:
-- meetup
-date: "2021-01-01T14:15:59-06:00"
-date_end: "2021-01-01T14:45:59-06:00"
+date: "2022-12-08"
 draft: false
-excerpt: Yet another idea
+excerpt: some fun things i've done to improve scientific communication
 layout: single
 location: Online
-subtitle: Testing
-title: A seedling
+subtitle:
+title: scientific communication
 ---
+### current
 
+- [NowIKnowMyABCD](https://now-i-know-my-abcd.github.io/docs/intro.html) - co-created a comprehensive, interactive website focused on increasing the communication and collaboration for researchers engaging with the [ABCD dataset](https://abcdstudy.org/)
+- [organization committee for brainhack global](https://brainhack.org/global2022/) - help manage comunication between all brainhack events 
