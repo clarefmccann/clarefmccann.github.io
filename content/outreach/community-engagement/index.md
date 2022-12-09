@@ -3,22 +3,26 @@ author:
 categories:
 date: "2022-12-08"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
 excerpt: some fun things i've done to engage the community in science
 featured: true
-layout: single
+layout: single-sidebar
 show_post_time: false
-subtitle:
 title: community engagement
 ---
-### current
+## current
 
-- [flux society communication committee](https://fluxsociety.org/communications-committee/) (2022-present) - work with a team made up of other flux members to disseminate current research, outreach events, and special occassions to different social media platforms
-- [to be honest youth advisory board member](https://linktr.ee/tbhtoday) (2021-present) - sit on a board specilized in working with youth to destigmatize mental health
-- [be my eyes sighted volunteer](https://www.bemyeyes.com/about) (2020-present) - assist those with impaired vision when requested through the Be My Eyes application
+### flux society communication committee
+work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
 
-### past
+### to be honest youth advisory board member
+sit on a board specialized in working with youth to de-stigmatize mental health </br>
+[click here to learn more about tbh](https://linktr.ee/tbhtoday)
+
+### be my eyes sighted volunteer 
+assist those with impaired vision when requested through the Be My Eyes application </br>
+[click here to learn more about be my eyes](https://www.bemyeyes.com/about)
+
+## past community engagement
 
 - 2021 - presented an intro to neuroscience to a psychology class at north eugene high school
 - 2020 - living lab day (eugene, or - science museum) - taught children from the community how to make anatomically correct brain hats and pipe cleaner neurons while answering their questions about the structures

@@ -4,11 +4,18 @@ categories:
 date: "2022-12-08"
 draft: false
 excerpt: helpful resources for learning and troubleshooting different types of code
-layout: single
-location: Online
+layout: single-sidebar
+location:
 subtitle:
 title: learning code
 ---
+
+<script src="{{< blogdown/postref >}}index_files/clipboard/clipboard.min.js"></script>
+<link href="{{< blogdown/postref >}}index_files/xaringanExtra-clipboard/xaringanExtra-clipboard.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/xaringanExtra-clipboard/xaringanExtra-clipboard.js"></script>
+<script>window.xaringanExtraClipboard(null, {"button":"<i class=\"fa fa-clipboard\"><\/i> Copy Code","success":"<i class=\"fa fa-check\" style=\"color: #90BE6D\"><\/i> Copied!","error":"Press Ctrl+C to Copy"})</script>
+<link href="{{< blogdown/postref >}}index_files/font-awesome/css/all.css" rel="stylesheet" />
+<link href="{{< blogdown/postref >}}index_files/font-awesome/css/v4-shims.css" rel="stylesheet" />
 
 ### learn by doing!
 - there's no better way to learn than having to...
@@ -27,9 +34,16 @@ title: learning code
   - [Swirl](https://swirlstats.com/students.html)
 
   #### getting scientific notation for your output?
-      > options(scipen=999)
+
+  ```r
+      options(scipen=999)
+  ```
+
   #### fav package manager + some fav packages
-      > pacman::p_load("dplyr", "ggplot2", "psych", install = TRUE)
+```r
+pacman::p_load("dplyr", "ggplot2", "psych", install = TRUE)
+```
+
   #### want to knitr a nice html from your markdown? ----> [bookdown](https://bookdown.org/yihui/rmarkdown/html-document.html)
 
 {{< panel name="GitHub" >}}
@@ -38,7 +52,7 @@ title: learning code
   [Create an account](https://github.com/)
   [GitHub Documentation - getting started!](https://docs.github.com/en/get-started/quickstart/hello-world)
 
-  I highly recommend generating [access tokens](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [ssh keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for ease of use. You can interact with git on the [command line](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) and manage your project with just a couple of lines of code. 
+  I highly recommend generating [access tokens](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [ssh keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for ease of use. You can interact with git on the [command line](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) and manage your project with just a couple of lines of code.
 
 {{< panel name="Command Line" >}}
 {{< panel name="Python" >}}

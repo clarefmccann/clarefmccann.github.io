@@ -1,7 +1,6 @@
 <head>
   {{ partial "meta.html" . }}
   {{ template "_internal/schema.html" . }}
-  {{ template "_internal/google_analytics.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
   {{ `<!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->` | safeHTML }}
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
@@ -18,6 +17,6 @@
   {{ $mainJs := resources.Get "js/main.js" | js.Build "main.js" | minify | fingerprint }}
   <script src="{{ $mainJs.RelPermalink }}" type="text/javascript"></script>
   <!-- toc.js -->
- {{ $tocJs := resources.Get "js/toc.js" | js.Build "toc.js" | minify | fingerprint }}
- <script src="{{ $tocJs.RelPermalink }}" type="text/javascript"></script>
+  {{ $tocJs := resources.Get "js/toc.js" | js.Build "toc.js" | minify | fingerprint }}
+  <script src="{{ $tocJs.RelPermalink }}" type="text/javascript"></script>
 </head>

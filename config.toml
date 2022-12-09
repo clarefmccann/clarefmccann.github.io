@@ -25,7 +25,8 @@ enableEmoji = true
     ordered = false
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/
-    noClasses = false
+    noClasses = true
+    style = "solarized-dark"
 
 pygmentsUseClasses = true
 
@@ -35,7 +36,7 @@ pygmentsUseClasses = true
   orgLocal = "san jose, ca"
   description = "Welcome!"
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/gecko-logo.png"
   mainSections = ["CV", "research", "outreach", "resources i like"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -51,14 +52,14 @@ pygmentsUseClasses = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = ""
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = ""
+  custom_theme = "clare-theme-hex"
 
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter

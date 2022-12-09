@@ -5,19 +5,11 @@ layout: single-sidebar
 date: "2022-12-08"
 draft: false
 featured: true
-sidebar:
-  title: cv table of contents
-  show_sidebar_adunit: true
 cascade:
   author:
   show_author_byline: false
   show_post_dates: true
   show_comments: false
-  sidebar:
-    text_link_label: view all research
-    text_link_url:
-    show_sidebar_adunit: false
-  toc: true 
 ---
 
 # Clare F. McCann
@@ -28,7 +20,7 @@ Social Affective Neuroscience and Development lab</br>
 clarefmccann [at] ucla.edu
 
 ---------
-### **_RESEARCH INTERESTS_**:
+## **_RESEARCH INTERESTS_**:
 * Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications.
 * Supporting the development of self, purpose and motivation in underserved youth and young adults.
 
@@ -46,7 +38,7 @@ GPA: 3.7 | Dean’s List: 3 quarters</br>
 Honors Thesis: Examining self-perceived scholastic competence, mindfulness, and school transitions in adolescent girls</br>
 **Advisor**: Kate Mills, Ph.D.</br>
 
-### **_AWARDS & HONORS_**:
+## **_AWARDS & HONORS_**:
 
 University of California, Los Angeles Alumni Fellowship 2022</br>
 University of Oregon – Psychology Undergraduate Commencement Speaker 2020</br>
@@ -54,7 +46,7 @@ University of Oregon - Psychology Departmental Honors 2020</br>
 University of Oregon - Dean’s Award for Service 2020</br>
 University of Oregon - Dean's List</br>
 
-### **_RESEARCH EXPERIENCE_**:
+## **_RESEARCH EXPERIENCE_**:
 
 **Lab Coordinator | Developmental Social Neuroscience lab | University of Oregon**</br>
 *September 2020 – present*</br>
@@ -89,7 +81,7 @@ University of Oregon - Dean's List</br>
 * Created flyers and ads to facilitate recruitment
 * Transcribed EEG session notes
 
-### **_CLINICAL EXPERIENCE_**:
+## **_CLINICAL EXPERIENCE_**:
 
 **Lead Clinician | HEDCO Autism Research & Training Center | University of Oregon**</br>
 *September 2018 – June 2020*</br>
@@ -102,7 +94,7 @@ University of Oregon - Dean's List</br>
 * Assisted on graduate student research studies by helping with recruitment of participants, inputting screening information, and reviewing relevant scientific literature
 * Completed an independent research project using a single-case study
 
-### **_PROFESSIONAL EXPERIENCE_**:
+## **_PROFESSIONAL EXPERIENCE_**:
 
 **Student Assistant | Vivian Olum Child Developmental Center | University of Oregon**</br>
 *September 2017 – June 2020*</br>
@@ -128,7 +120,7 @@ University of Oregon - Dean's List</br>
 * Recruited, developed criteria, and interviewed individuals to select staff of 38 people
 * Developed a program of childcare for children of incoming students during orientation sessions
 
-### **_VOLUNTEER EXPERIENCE_**:
+## **_VOLUNTEER EXPERIENCE_**:
 
 **Sighted Volunteer | Be My Eyes | Virtual**</br>
 *September 2020 – present*</br>
@@ -168,7 +160,7 @@ non-profit organization to provide advocacy, education, and services relating to
 * Transcribed diagnostic material for schizophrenia from clients
 * Developed and oversaw different inclusive activities for the group to participate to create community and development
 
-### **_POSTERS, PAPERS, AND PRESENTATIONS_**:
+## **_POSTERS, PAPERS, AND PRESENTATIONS_**:
 
 **Publications**
 
@@ -196,7 +188,7 @@ McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-p
 
 McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a young girl with autism. Poster presented the University of Oregon Undergraduate Research Symposium, Eugene, OR.
 
-### **_SERVICE & ACTIVITY_**:
+## **_SERVICE & ACTIVITY_**:
 
 * Volunteer - Brainhack Global 2022 Organizing Committee
 * Communications Committee Member for the Flux Society – 2022-Present
@@ -209,21 +201,21 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 * Get Explicit 101
   * Designed and implemented a presentation to give to incoming students to the University of Oregon. Presentation was aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
 
-### **_PROFESSIONAL ORGANIZATION MEMBERSHIPS_**:
+## **_PROFESSIONAL ORGANIZATION MEMBERSHIPS_**:
 
 * National Science Policy Network (NSPN)
 * Social Affective Neuroscience Society (SANS)
 * Flux: The Society for Developmental Cognitive Neuroscience
 * Organization for Human Brain Mapping (OHBM)
 
-### **_SKILLS_**:
+## **_SKILLS_**:
 
 * *Statistical software*: R, MATLAB, JupyterLab, Python, SPSS
 * *Data applications*: Excel, REDCap, Qualtrics
 * *Other*: GitHub, Zotero, Word, PowerPoint, Bash, FreeSurfer
 
 
-### **_CERTIFICATIONS_**:
+## **_CERTIFICATIONS_**:
 
 * IBM Data Science Specialization – In Progress
 * Scan Operator Certified (40-hour training) – Lewis Center for Neuroimaging
@@ -231,7 +223,7 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 * Registered Behavior Technician – Behavior Analysis Certification Board
 * Lewis Center for Neuroimaging’s MRI Safety Certified – University of Oregon
 
-### **_TRAINING_**:
+## **_TRAINING_**:
 
 * NeuroHackademy at the University of Washington – 2022
 * Skills for Psychological Recovery (SPR) – The National Child Traumatic Stress Network
