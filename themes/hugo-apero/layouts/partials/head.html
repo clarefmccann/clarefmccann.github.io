@@ -18,3 +18,7 @@
   {{ $mainJs := resources.Get "js/main.js" | js.Build "main.js" | minify | fingerprint }}
   <script src="{{ $mainJs.RelPermalink }}" type="text/javascript"></script>
 </head>
+
+{{ if (findRE "<pre" .Content 1) }}
+    <script src="/js/copy-code-button.js"></script>
+{{ end }}
