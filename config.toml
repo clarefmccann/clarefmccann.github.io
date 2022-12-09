@@ -15,10 +15,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 enableEmoji = true
 
 [markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark.renderer]
-    unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-    hardwraps = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+      hardwraps = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 2
@@ -27,13 +27,8 @@ enableEmoji = true
     # one of: https://xyproto.github.io/splash/docs/
     style = "github"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params]
-  orgName = "my mom and mad"
+  orgName = "my mom and dad"
   orgLocal = "san jose, ca"
   description = "Welcome!"
   favicon = "/img/favicon.ico"
@@ -139,8 +134,6 @@ enableEmoji = true
     title = "resources i like"
     url = "/resources-i-like/"
     weight = 5
-
-
   [[menu.footer]]
     name = "contact"
     title = "contact form"
