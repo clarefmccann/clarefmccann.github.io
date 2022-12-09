@@ -1,7 +1,6 @@
 ---
 author:
 categories:
-date: "2022-12-08"
 draft: false
 excerpt: some fun things i've done to engage the community in science
 featured: true
@@ -18,7 +17,7 @@ work with a team made up of other flux members to disseminate current research, 
 sit on a board specialized in working with youth to de-stigmatize mental health </br>
 [click here to learn more about tbh](https://linktr.ee/tbhtoday)
 
-### be my eyes sighted volunteer 
+### be my eyes sighted volunteer
 assist those with impaired vision when requested through the Be My Eyes application </br>
 [click here to learn more about be my eyes](https://www.bemyeyes.com/about)
 

@@ -2,7 +2,6 @@
 ## Configure header of page
 title: curriculum vitae
 layout: single-sidebar
-date: "2022-12-08"
 draft: false
 featured: true
 cascade:

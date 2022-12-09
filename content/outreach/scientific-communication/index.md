@@ -1,7 +1,6 @@
 ---
 author:
 categories:
-date: "2022-12-08"
 draft: false
 excerpt: some fun things i've done to improve scientific communication
 layout: single-sidebar

@@ -1,7 +1,6 @@
 ---
 author: Clare F. McCann
 categories:
-date: "2022-12-08"
 draft: false
 excerpt: projects that i am no longer working on
 layout: single-sidebar

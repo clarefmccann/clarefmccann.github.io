@@ -1,5 +1,4 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
 description: Email me directly through this online form! 
 draft: false
 formspree_form_id: xlevqwpn
