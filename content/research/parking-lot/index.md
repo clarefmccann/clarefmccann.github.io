@@ -6,8 +6,6 @@ draft: false
 excerpt: projects on the horizon
 featured: true
 layout: single-sidebar
-tags:
-- hugo-site
 title: Parking Lot
 ---
 

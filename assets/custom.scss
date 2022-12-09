@@ -1,1 +1,109 @@
-// Override this file to add your own SCSS styling.
+// ----------------------------------------------------------------------------
+// ----custom styling----------------------------------------------------------
+
+// Experimental: ToC: navigating up or down the ToC is smooth not jumpy
+/*html {
+  scroll-behavior: smooth;
+}*/
+
+// headline: make smaller than default
+.f1-m {
+  font-size: 5.7rem;
+}
+
+// sidebar: make smaller after a11y mod to h3
+#profile h3 {
+  font-size: 1rem;
+}
+
+// ToC ------------------------------------------------------------------------
+// modified from: scaffold.scss, series + collections table of contents
+
+
+// styles h1 and h2
+nav#TableOfContents ul li {
+  @extend .f5, .lh-title-ns;
+  // all links
+  a {
+    @extend .no-underline;
+    // transition: all 50mx ease-in-out;
+  }
+  // active list items
+  &.active {
+    @extend .pl3, .bg-#{$siteBgColor}, .bl, .b--#{$borderColor}, .bw1;
+  }
+  // non-active list items
+  &:not(.active) {
+    @extend .pl3, .bl, .bw1, .b--transparent;
+  }
+  // hovering over active links
+  &:hover.active a {
+    @extend .underline;
+  }
+  // hovering over non-active links
+  &:hover:not(.active) a {
+   //@extend .underline;
+  }
+  &a:hover {
+    @extend .br;
+  }
+  // within nested list items
+  li {
+    // hovering over active links
+    &:hover.active a {
+      //@extend .dim;
+    }
+    // hovering over non-active links
+    &:hover:not(.active) a {
+      @extend .underline; //.dim;
+    }
+  }
+}
+// apply tachyons classes to blog post and single page markdown
+
+// increase line spacing within panels
+.panelset * {
+  @extend .lh-copy;
+}
+
+.post-body,
+.page-body {
+
+  // code inside links
+  a > code {
+    // tachyon styles
+    @extend .f6, .pa1, .ba, .bw1, .br0;
+    // standard css properties
+    color: #415200;     // 415200 434f54
+    background-color: none; // DCE3C0 EEF1E0
+    border: none;  // 728e00 b9c680 ebebeb
+  }
+
+  // inline code (not code in chunks)
+  :not(pre) > code {
+    // tachyon styles
+    @extend .f6, .pa1, .ba, .bw1 , .br1;
+    // standard css properties
+    color: #434f54;     // 415200 434f54 627A00
+    background-color: #EEF1E0; // DCE3C0 EEF1E0 fefefe
+    border: 1px solid #b9c680;// 728e00 b9c680 ebebeb
+  }
+
+}
+
+// wrap code chunks
+// source: https://stackoverflow.com/a/56469907
+code {
+  white-space : pre-wrap !important;
+}
+
+// Style code chunks ----------------------------------------------------------
+pre, li > pre {
+  @extend .pre, .br1, .pa3, .bg-transparent, .f6;
+  border: 1px solid #ebebeb;
+  line-height: 1.5em;
+}
+
+pre code span {
+	font-weight: normal !important;
+}

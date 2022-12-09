@@ -4,10 +4,7 @@ categories:
 date: "2022-12-08"
 draft: false
 excerpt: projects that i am no longer working on
-layout: single
-subtitle:
-tags:
-- hugo-site
+layout: single-sidebar
 title: Completed
 ---
 

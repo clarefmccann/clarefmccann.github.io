@@ -4,10 +4,8 @@ categories:
 date: "2022-12-08"
 draft: false
 excerpt: cue the jeopardy theme song
-layout: single
+layout: single-sidebar 
 subtitle: Works being worked on "actively"
-tags:
-- in-progress
 title: In Progress
 ---
 ### Puberty and Structural Brain Development: It's About Time</br>

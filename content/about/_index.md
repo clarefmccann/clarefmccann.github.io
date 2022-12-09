@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  a bit of me!
+  personal website of clare f. mccann
 show_header: true
 sidebar_left: false
 title: About
