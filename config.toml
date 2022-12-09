@@ -26,13 +26,15 @@ enableEmoji = true
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/
     style = "github"
+
+[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
 [params]
-  orgName = "My Mom and Dad"
-  orgLocal = "San Jose, CA"
+  orgName = "my mom and mad"
+  orgLocal = "san jose, ca"
   description = "Welcome!"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
@@ -158,8 +160,3 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true

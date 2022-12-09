@@ -3,7 +3,7 @@
 title: "statement of self" # leave blank to exclude
 show_intro: true
 intro: |
-  I actively making sure my life is a safe space for all BIPOC, gender diverse, neurodivergent, queer folks which means my website is too <3 There will be no tolerance to threats of any level to the safety of this space.
+  I actively make sure my life is a safe space for all BIPOC, gender diverse, neurodivergent, queer folks which means my website is too <3 There will be no tolerance to threats of any level to the safety of this space.
 show_outro: false
 outro: |
 ---
