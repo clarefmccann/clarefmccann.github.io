@@ -1,4 +1,4 @@
-baseURL = "https://clarefmccann.rstudio.io"
+baseURL = "https://clarefmccann.rbind.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "hey"
