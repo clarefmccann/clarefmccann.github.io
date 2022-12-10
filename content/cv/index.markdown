@@ -12,19 +12,18 @@ cascade:
 ---
 
 # Clare F. McCann
-##### CURRICULUM VITAE
 
-University of California, Los Angeles</br>
+The University of California, Los Angeles</br>
 Social Affective Neuroscience and Development lab</br>
 clarefmccann [at] ucla.edu
 
 ---------
 ## **_RESEARCH INTERESTS_**:
 * Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications.
-* Supporting the development of self, purpose and motivation in underserved youth and young adults.
+* Supporting the development of self, purpose, and motivation in underserved youth and young adults.
 
 ## **_EDUCATION_**:
-University of California, Los Angeles</br>
+The University of California, Los Angeles</br>
 September 2022-Present</br>
 Ph.D. Student, Developmental Psychology</br>
 Minor: Quantitative Psychology</br>
@@ -39,26 +38,25 @@ Honors Thesis: Examining self-perceived scholastic competence, mindfulness, and 
 
 ## **_AWARDS & HONORS_**:
 
-University of California, Los Angeles Alumni Fellowship 2022</br>
+The University of California, Los Angeles Alumni Fellowship 2022</br>
 University of Oregon – Psychology Undergraduate Commencement Speaker 2020</br>
 University of Oregon - Psychology Departmental Honors 2020</br>
-University of Oregon - Dean’s Award for Service 2020</br>
-University of Oregon - Dean's List</br>
+The University of Oregon - Dean's Award for Service 2020</br>
+The University of Oregon - Dean's List</br>
 
 ## **_RESEARCH EXPERIENCE_**:
 
 **Lab Coordinator | Developmental Social Neuroscience lab | University of Oregon**</br>
 *September 2020 – present*</br>
 **Supervisor**: Jennifer Pfeifer, Ph.D.
-* Operate scans of structural and functional sequences for adolescent participants on a Siemens 3T Skyra magnetic resonance imaging machine
-* Collect and manage multiple time points of behavioral, anthropometric, endocrine and neuroimaging data in a sample of 174 adolescent participants (ages 10.0-20.0)
-* Manage and assess the ethics and operations of multiple protocols while working with the IRB to facilitate protocol changes and progress reports
-* Develop tasks, training, and protocols for undergraduate research assistants to ensure their learning goals are met
-* Established and maintain an undergraduate research assistant support team to facilitate bi-weekly journal clubs and professional development workshops
-* Administer Kiddie Schedule for Affective Disorders and Schizophrenia (KSADS-PL; minimum of 4 interviews per month) interviews to parents and adolescent participants
-* Organize a multi-site research project to assess the development of purpose, goals, and well-being in college-aged participants
-* Coordinate scheduling of families and participants to adhere to the longitudinal timeline
-* Crafting a manual, resources, and training for how to address and prevent racist behaviors by child participants as a part of an anti-racism committee
+* Operated scans of structural and functional sequences for adolescent participants on a Siemens 3T Skyra magnetic resonance imaging machine
+* Collected and managed multiple time points of behavioral, anthropometric, endocrine, and neuroimaging data in a sample of 174 adolescent participants (ages 10.0-20.0)
+* Managed and assessed the ethics and operations of multiple protocols while working with the IRB to facilitate protocol changes and progress reports
+* Developed tasks, training, and protocols for undergraduate research assistants to ensure they met their learning goals
+* Established and maintained an undergraduate research assistant support team to facilitate bi-weekly journal clubs and professional development workshops
+* Administered Kiddie Schedule for Affective Disorders and Schizophrenia (KSADS-PL; minimum of 4 interviews per month) interviews to parents and adolescent participants
+* Organized a multi-site research project to assess the development of purpose, goals, and well-being in college-aged participants
+* Coordinated scheduling of families and participants to adhere to the longitudinal timeline
 * Acquired, cleaned, and visualized data trends using R programming to assist Dr. Pfeifer with an R56 NIH-funded grant application
 
 **Research Assistant | Developmental Social Neuroscience lab | University of Oregon**</br>
@@ -68,9 +66,9 @@ University of Oregon - Dean's List</br>
 * Transcribed video recordings of a self-esteem evaluation task
 * Trained junior research assistants on task protocols, such as data entry and verification
 * Shadowed clinical graduate students on clinical assessment interviews
-* Assisted a Ph.D. Candidate with their dissertation literature review on adolescence as a sensitive period for sociocultural development
+* Assisted a Ph.D. Candidate with her dissertation literature review on adolescence as a sensitive period for sociocultural development
 * Completed an independent research project using multilevel modeling in the programming language R
-* Worked on preprocessing and quality checking neuroimaging data for analysis
+* Worked on preprocessing and quality-checking neuroimaging data for analysis
 
 **Research Assistant | Developing Brains in Context, Resting Child Brain Project | University of Oregon**</br>
 *September 2019 – June 2020*</br>
@@ -90,7 +88,7 @@ University of Oregon - Dean's List</br>
 * Performed Applied Behavior Analysis (ABA) interventions with a four-year-old diagnosed with autism spectrum disorder
 * Trained new undergraduate interns on behavioral observation data collection
 * Collaborated with parents and professionals to create treatment goals and behavior plans
-* Assisted on graduate student research studies by helping with recruitment of participants, inputting screening information, and reviewing relevant scientific literature
+* Assisted with graduate student research studies by helping with the recruitment of participants, inputting screening information, and reviewing relevant scientific literature
 * Completed an independent research project using a single-case study
 
 ## **_PROFESSIONAL EXPERIENCE_**:
@@ -100,7 +98,7 @@ University of Oregon - Dean's List</br>
 **Supervisor**: Susan Schneider</br>
 * Provided support to two lead teachers working in a classroom with nine 2-3 year-olds
 * Interacted with children daily, using a natural learning framework
-* Conducted circle time and activities to encourage children’s development
+* Conducted circle time and activities to encourage children's development
 * Participated in workshops covering topics such as child development, identifying abuse and neglect, and promoting well-being
 
 **Facilitator | Sexual Violence Prevention Education | University of Oregon**</br>
@@ -116,7 +114,7 @@ University of Oregon - Dean's List</br>
 * Adapted communication styles with individual student staff to maintain professional boundaries
 * Encouraged student staff to collaborate and fostered a welcoming work environment
 * Facilitated and enabled student leadership and growth during weekly training sessions
-* Recruited, developed criteria, and interviewed individuals to select staff of 38 people
+* Recruited, developed criteria, and interviewed individuals to select a staff of 38 people
 * Developed a program of childcare for children of incoming students during orientation sessions
 
 ## **_VOLUNTEER EXPERIENCE_**:
@@ -128,12 +126,12 @@ University of Oregon - Dean's List</br>
 **Crisis Text Line Counselor | Crisis Text Line**</br>
 *June 2021 – Septemeber 2022*</br>
 * Trained to provide de-escalation to those in crisis
-* Offer resources and aide to individuals who text in
-* Perform risk assessments and take necessary action to ensure texter’s safety
+* Offer resources and aid to individuals who text in
+* Perform risk assessments and take necessary action to ensure the texter's safety
 
 **Letter Writer | Virtual Prison Correspondence Program, Critical Resistance | Eugene, Oregon**</br>
 *September 2020 – September 2022*</br>
-* Receive and respond to letters from people incarcerated in Oregon and Washington regarding issues such as trauma, mental health, violence, re-entry needs, and other forms of oppressive content (e.g., transphobia, ableism, etc.)
+* Respond to letters from people incarcerated in Oregon and Washington regarding issues such as trauma, mental health, violence, re-entry needs, and other forms of oppressive content (e.g., transphobia, ableism, etc.)
 
 **iCouldBe Mentor | iCouldBe | Virtual**</br>
 *September 2020 – September 2022*</br>
@@ -144,7 +142,7 @@ University of Oregon - Dean's List</br>
 * Worked with a team that remodeled and strengthened the structure of a youth-led,
 non-profit organization to provide advocacy, education, and services relating to menstrual inequity
 * Recruited members nationwide to establish Operation Period chapters in their area
-* Managed chapters through conference calls, walked them through paperwork, chapter requirements, and supervised their progress
+* Managed chapters through conference calls, walked them through paperwork and chapter requirements and supervised their progress
 
 **Peer Advisor | Psychology Department | University of Oregon**</br>
 *September 2017 – June 2018*</br>
@@ -157,7 +155,7 @@ non-profit organization to provide advocacy, education, and services relating to
 *June 2016 – September 2016*</br>
 * Assisted with an after-school youth program for young adults diagnosed with schizophrenia
 * Transcribed diagnostic material for schizophrenia from clients
-* Developed and oversaw different inclusive activities for the group to participate to create community and development
+* Developed and oversaw different inclusive activities for the group to participate in creating community and development
 
 ## **_POSTERS, PAPERS, AND PRESENTATIONS_**:
 
@@ -181,11 +179,11 @@ Barrett, A. -M. Y., Cheng T. W., Flannery, J., McCann, C.F., Mills, K. L., Chave
 J. H. Comparing the Multivariate Relationships of Conceptual Adversity Models and
 Structural Brain Development in Adolescent Girls*. Poster presented at Flux Society Conference, Paris, France.
 
-McCann, C.F., Barendse, M., Mills, K.L., Pfeifer, J.H. (2022, September) Puberty and Structural Brain Development: It’s About Time. Poster presented at Flux Society Conference, Paris, France.
+McCann, C.F., Barendse, M., Mills, K.L., Pfeifer, J.H. (2022, September) Puberty and Structural Brain Development: It's About Time. Poster presented at Flux Society Conference, Paris, France.
 
-McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-perceived scholastic competence, mindfulness, and school transitions in adolescent girls. Poster presented at the University of Oregon Psychology Honor’s Ceremony, Eugene, OR.
+McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-perceived scholastic competence, mindfulness, and school transitions in adolescent girls. Poster presented at the University of Oregon Psychology Honor's Ceremony, Eugene, OR.
 
-McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a young girl with autism. Poster presented the University of Oregon Undergraduate Research Symposium, Eugene, OR.
+McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a young girl with autism. Poster presented at the University of Oregon Undergraduate Research Symposium, Eugene, OR.
 
 ## **_SERVICE & ACTIVITY_**:
 
@@ -198,7 +196,7 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 * Summer Academy to Inspire Learning, 2020
   * Presented with two Ph.D. students about the general topic of mindfulness for a summer camp dedicated to inspiring high school students in Oregon to engage with a variety of scientific fields
 * Get Explicit 101
-  * Designed and implemented a presentation to give to incoming students to the University of Oregon. Presentation was aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
+  * Designed and implemented a presentation to give to incoming students at the University of Oregon. The presentation aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
 
 ## **_PROFESSIONAL ORGANIZATION MEMBERSHIPS_**:
 
@@ -220,7 +218,7 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 * Scan Operator Certified (40-hour training) – Lewis Center for Neuroimaging
 * CPR, AED, & First Aid Certified – EMS Safety Services
 * Registered Behavior Technician – Behavior Analysis Certification Board
-* Lewis Center for Neuroimaging’s MRI Safety Certified – University of Oregon
+* Lewis Center for Neuroimaging's MRI Safety Certified – University of Oregon
 
 ## **_TRAINING_**:
 

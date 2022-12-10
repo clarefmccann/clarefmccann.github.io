@@ -1,9 +1,9 @@
 ---
-description: Email me directly through this online form! 
+description: Email me directly through this online form!
 draft: false
 formspree_form_id: xlevqwpn
 layout: split-right
-name: Contact Us Form
+name: Contact Form
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message

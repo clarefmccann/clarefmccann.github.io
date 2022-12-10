@@ -3,36 +3,105 @@ author:
 categories:
 date: "2022-12-08"
 draft: false
-excerpt: some fun things i've done to engage the community in science
+excerpt: some fun things i've done to engage the community in science and science with the community
 featured: true
 layout: single-sidebar
 show_post_time: false
 title: community engagement
 cascade:
   featured_image: /featured-engage.jpg
+alt: drawing of two people talking
+
 ---
-## current
+## current community engagement
 
 ### flux society communication committee
-work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
+---> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> ---> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
+
+### organization committee for brainhack global
+
+---> help manage the communication between all [brainhack events](https://brainhack.org/global2022/)
 
 ### to be honest youth advisory board member
-sit on a board specialized in working with youth to de-stigmatize mental health </br>
-[click here to learn more about tbh](https://linktr.ee/tbhtoday)
+---> sit on a board specialized in working with youth to de-stigmatize mental health </br>
+---> [click here to learn more about tbh](https://linktr.ee/tbhtoday)
 
 ### be my eyes sighted volunteer
-assist those with impaired vision when requested through the Be My Eyes application </br>
-[click here to learn more about be my eyes](https://www.bemyeyes.com/about)
+---> assist those with impaired vision when requested through the Be My Eyes application </br>
+---> [click here to learn more about be my eyes](https://www.bemyeyes.com/about)
 
 ## past community engagement
 
-- 2021 - presented an intro to neuroscience to a psychology class at north eugene high school
-- 2020 - living lab day (eugene, or - science museum) - taught children from the community how to make anatomically correct brain hats and pipe cleaner neurons while answering their questions about the structures
-- 2020 - summer academy to inspire learning - presented about the general topic of mindfulness for a summer camp dedicated to inspiring high school students in Oregon to engage with a variety of scientific fields
-- 2019 - get explicit 101 - designed and implemented a presentation to give to incoming students to the University of Oregon. Presentation was aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
-- [crisis text line counselor](https://www.crisistextline.org/) (2021-2022) - provided de-escalation to those in crisis through an online platform
-- [letter writer for critical resistance](https://criticalresistance.org/) (2020-2022) - worked with the pacific northwest chapter to respond to letters from incarcerated individuals seeking advice on trauma, mental health, violence, re-entry, and other forms of oppressive content (e.g., ableism, transphobia, etc.)
-- [icouldbe mentor](https://www.icouldbe.org/) (2020-2021) - mentored high school students
-- [chapter coordinator for operation period](https://www.operationperiod.org/) (2018-2019) - restructured a youth-led non-profit to provide advocacy, education, and services relating to mentstural inequity
-- peer advisor at the university of oregon - advised other undergraduate students studying psychology on executing their graduatation plans
-- [intern at momentum for health](https://momentumforhealth.org/) (2016) - assisted with an after-school youth program for young adults diagnosed with schizophrenia
+### 2020-2022
+<details><summary>crisis text line counselor</a></summary>
+
+> provided de-escalation to those in crisis through an online platform
+
+> learn how to get involved [here](https://www.crisistextline.org/)
+</details>
+
+<details><summary>letter writer for critical resistance</summary>
+
+> worked with the pacific northwest chapter to respond to letters from incarcerated individuals seeking advice on trauma, mental health, violence, re-entry, and other forms of oppressive content (e.g., ableism, transphobia, etc.)
+
+> learn how to get involved [here](https://criticalresistance.org/)
+</details>
+
+<details><summary>icouldbe mentor</summary>
+
+> mentored high school students
+
+> learn how to get involved [here](https://www.icouldbe.org/)
+</details>
+
+### 2018-2019
+
+<details><summary>chapter coordinator for operation period</summary>
+> restructured a youth-led non-profit to provide advocacy, education, and services relating to menstrual inequity
+
+> learn about the initiative and how to get involved [here](https://www.operationperiod.org/)
+</details>
+
+### 2017-2019
+
+<details><summary>get explicit facilitator</summary>
+
+> facilitated peer-to-peer conversations for incoming students surrounding topics such as consent, sexual violence prevention, and healthy sexuality
+
+> learn more about the program [here](https://dos.uoregon.edu/getexplicit)
+</details>
+
+<details><summary>peer advisor at the university of oregon</summary>
+
+> advised other undergraduate students studying psychology on executing their graduation plans
+</details>
+
+### 2016
+<details><summary>intern at momentum for health</summary>
+
+> assisted with an after-school youth program for young adults diagnosed with schizophrenia
+
+> learn more about the organization and how to get involved [here](https://momentumforhealth.org/)
+</details>
+
+
+## talks + presentations
+
+<details><summary>north eugene high school</summary>
+
+> presented "intro to neuroscience" to a psychology class with the [dbic lab](http://devbrainlab.org/)
+</details>
+
+<details><summary>living lab day</summary>
+
+ > taught children from the community how to make anatomically correct brain hats and pipe cleaner neurons while answering their questions about the structures</br>
+ </details>
+
+<details><summary>summer academy to inspire learning</summary>
+
+ > presented the general topic of mindfulness for a summer camp dedicated to inspiring high school students in Oregon to engage with a variety of scientific fields
+ </details>
+
+ <details><summary>get explicit 101</summary>
+ > designed and implemented a presentation to give to incoming students at the University of Oregon. The presentation aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
+ </details>

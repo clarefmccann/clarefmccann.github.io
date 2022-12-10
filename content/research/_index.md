@@ -1,6 +1,6 @@
 ---
 title: overall research interests
-description: (1) Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications. </br> (2) Supporting the development of self, purpose and motivation in underserved youth and young adults.
+description: (1) Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications. </br> (2) Supporting the development of self, purpose, and motivation in underserved youth and young adults.
 author: me + all my lovely collaborators
 show_post_thumbnail: true
 thumbnail_left: true

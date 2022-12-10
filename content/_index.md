@@ -1,11 +1,12 @@
 ---
-action_label: Read More &rarr;
+action_label: Learn more about me if you want &rarr;
 action_link: /about
 action_type: text
-description: hello! this is my website where i keep track of my research, outreach, collaborations, and anything else i end up adding. also, the photo is the structural connectivity of my brain!
+description: hello! this is my website where i keep track of my research, outreach, collaborations, and anything else i end up adding. </br></br>(photo on this page is the structural connectivity of my brain)
 image_left: true
 images:
 - img/dti-brain.png
+alt: a picture of the structural connectivity of my brain, taken from a diffusion tensor image
 show_action_link: true
 show_social_links: true
 subtitle: clare f. mccann (she/her)

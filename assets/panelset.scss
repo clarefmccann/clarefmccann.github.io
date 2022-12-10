@@ -15,11 +15,11 @@
       --panel-tab-inactive-opacity: 0.5;
       --panel-tab-font-family: inherit;
     }
-    
+
     .panelset * {
       box-sizing: border-box;
     }
-    
+
     .panelset .panel-tabs {
       display: -webkit-box;
       display: flex;
@@ -37,12 +37,12 @@
       padding: 0 0 2px 0;
       box-shadow: inset 0 -1px 0px var(--panel-tabs-border-bottom);
     }
-    
+
     .panelset .panel-tabs * {
       -webkit-transition: opacity 0.5s ease;
       transition: opacity 0.5s ease;
     }
-    
+
     .panelset .panel-tabs .panel-tab {
       min-height: 50px;
       display: -webkit-box;
@@ -62,24 +62,24 @@
       list-style: none;
       z-index: 5;
     }
-    
+
     .panelset .panel-tabs .panel-tab > a {
       color: currentColor;
       text-decoration: none;
       border: none;
     }
-    
+
     .panelset .panel-tabs .panel-tab > a:focus {
       outline: none;
       text-decoration: none;
       border: none;
     }
-    
+
     .panelset .panel-tabs .panel-tab > a:hover {
       text-decoration: none;
       border: none;
     }
-    
+
     .panelset .panel-tabs .panel-tab:hover {
       border-bottom-color: var(--panel-tab-hover-border-color);
       color: var(--panel-tab-hover-foreground);
@@ -88,25 +88,25 @@
       cursor: pointer;
       z-index: 10;
     }
-    
+
     .panelset .panel-tabs .panel-tab:focus {
       outline: none;
       color: var(--panel-tab-hover-foreground);
       border-bottom-color: var(--panel-tab-hover-border-color);
       background-color: var(--panel-tab-hover-background);
     }
-    
+
     .panelset .panel-tabs .panel-tab.panel-tab-active {
       border-top-color: var(--panel-tab-active-border-color);
       color: var(--panel-tab-active-foreground);
       background-color: var(--panel-tab-active-background);
       opacity: 1;
     }
-    
+
     .panelset .panel {
       display: none;
     }
-    
+
     .panelset .panel-active {
       display: block;
     }

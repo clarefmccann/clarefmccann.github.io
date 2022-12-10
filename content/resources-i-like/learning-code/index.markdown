@@ -16,7 +16,7 @@ title: learning code
 <link href="{{< blogdown/postref >}}index_files/font-awesome/css/all.css" rel="stylesheet" />
 <link href="{{< blogdown/postref >}}index_files/font-awesome/css/v4-shims.css" rel="stylesheet" />
 
-### learn by doing!
+## learn by doing!
 - there's no better way to learn than having to...
     - tips:
         - if you usually clean your data in a certain language or platform, try using a new one to add dimension to your skillset.
