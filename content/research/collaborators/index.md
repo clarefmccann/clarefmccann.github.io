@@ -11,16 +11,17 @@ subtitle:
 
 ## current mentors + collaborators
 
-  <details><summary>Dr. Jennifer Silvers & <a href="https://silverslab.psych.ucla.edu/">the SAND lab</a> - University of California, Los Angeles</summary>
+  <details><summary>Dr. Jennifer A. Silvers & <a href="https://silverslab.psych.ucla.edu/">the SAND lab</a> - University of California, Los Angeles</summary>
 
   > Ph.D. advisor at the University of California, Los Angeles</br>
+    ---> expert in emotion regulation and regulates my emotions throughout grad school
 
   > Read more about her work [here](https://www.psych.ucla.edu/faculty-page/silvers/). Do it; she's amazing.</details>
 
   <details><summary> Dr. Kate L. Mills & <a href="http://devbrainlab.org/">the DBIC lab</a> - University of Oregon</summary>
 
   > Undergraduate + Beyond Mentor </br>
-    ---> taught me almost everything I know about structural neuroimaging
+    ---> taught me everything I know about structural neuroimaging
 
   > Click [here](https://psychology.uoregon.edu/profile/klmills/) to learn more about her. If you ever get a chance to work with her, jump at it.
   </details>
@@ -45,7 +46,7 @@ subtitle:
 
   <details><summary>Dr. Michelle Byrne - Monash University</summary>
 
-  > Collaborator
+  > Collaborator</br>
     ---> advises on my work centering gender inclusivity + puberty research
 
   > Highly recommend checking [her work](https://research.monash.edu/en/persons/michelle-byrne) out.
@@ -53,7 +54,7 @@ subtitle:
 
   <details><summary>Dr. Theresa W. Cheng - Massachusetts General Hospital</summary>
 
-  > Undergraduate Research Mentor + Collaborator
+  > Undergraduate Research Mentor + Collaborator </br>
   ---> the reason i love coding and learning new things re: research methods
 
   > You need to look at what she [does](https://www.researchgate.net/profile/Theresa-Cheng-2)
@@ -61,7 +62,7 @@ subtitle:
 
   <details><summary>Dr. Marjolein Barendse - the University of California, Davis</summary>
 
-  > Collaborator
+  > Collaborator </br>
     ---> introduced me to fMRI, and is my go-to for all pubertal hormone questions
 
   > Read more about her wonderful work [here](https://scholar.google.com/citations?user=u20NvGIAAAAJ&hl=en).
@@ -69,14 +70,25 @@ subtitle:
 
   <details><summary>Members of the NowIKnowMyABCD team</summary>
 
-  > Co-creators of [NowIKnowMyABCD website](https://now-i-know-my-abcd.github.io/docs/user-manual.html)
-  ---> [Sana Ali](https://twitter.com/ResearchbySana) - PhD Student at UCSD
-  ---> [Lucy Whitmore](https://twitter.com/_lucywhitmore) - PhD Student at UO
-  ---> [Monica Thieu](https://www.monicathieu.com/) - PostDoc at Emory U
+  > Co-creators of [NowIKnowMyABCD website](https://now-i-know-my-abcd.github.io/docs/user-manual.html)</br>
+  ---> [Sana Ali](https://twitter.com/ResearchbySana) - PhD Student at UCSD</br>
+  ---> [Lucy Whitmore](https://twitter.com/_lucywhitmore) - PhD Student at UO</br>
+  ---> [Monica Thieu](https://www.monicathieu.com/) - PostDoc at Emory U</br>
   </details>
 
 ## present + past mentees
+
+#### present
+
+  <details><summary>Maya O'Kelly - Undergraduate at UCLA</summary>
+
+  > work together on "Pathways in Adolescence"
+  </details>
+
+#### past
+
   <details><summary>Kayalin Abendroth-Jones, B.S. - University of Oregon</summary>
-  > Mentored on her undergraduate honors thesis
+  
+  > Mentored on her undergraduate honors thesis </br>
   ---> contributed conceptual design, code, and stats
   </details>

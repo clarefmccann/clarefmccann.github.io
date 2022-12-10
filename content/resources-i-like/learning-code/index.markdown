@@ -7,6 +7,7 @@ layout: single-sidebar
 location:
 subtitle:
 title: learning code
+date: "2022-12-08"
 ---
 
 <script src="{{< blogdown/postref >}}index_files/clipboard/clipboard.min.js"></script>
@@ -17,14 +18,21 @@ title: learning code
 <link href="{{< blogdown/postref >}}index_files/font-awesome/css/v4-shims.css" rel="stylesheet" />
 
 ## learn by doing!
-- there's no better way to learn than having to...
-    - tips:
-        - if you usually clean your data in a certain language or platform, try using a new one to add dimension to your skillset.
-        - stackoverflow <3
-        - interactive tutorials! (e.g.,[datacamp](https://www.datacamp.com/?irclickid=1u8RaNyBuxyNRS2w-Vw7PXGtUkAxuMS90QtpU80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-2334778_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Linkbux&utm_content=ONLINE_TRACKING_LINK))
-        - commit to completing a project using a specific language
-        - become really good at googling - copy + paste your errors!
-          - if you find the answer, challenge yourself to understand why that way works and your way doesn't
+
+> there's no better way to learn than having to...
+
+>tips:
+  > if you usually clean your data in a certain language or platform, try using a new one to add dimension to your skillset.
+
+  > stackoverflow <3
+
+  > interactive tutorials! (e.g., [datacamp](https://www.datacamp.com/?irclickid=1u8RaNyBuxyNRS2w-Vw7PXGtUkAxuMS90QtpU80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-2334778_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Linkbux&utm_content=ONLINE_TRACKING_LINK))
+
+  > commit to completing a project using a specific language
+
+  > become really good at googling - copy + paste your errors!
+
+  > if you find the answer, challenge yourself to understand why that way works and your way doesn't
 
 {{< panelset class="greetings" >}}
 {{< panel name="R">}}
@@ -53,5 +61,28 @@ pacman::p_load("dplyr", "ggplot2", "psych", install = TRUE)
 
   I highly recommend generating [access tokens](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [ssh keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for ease of use. You can interact with git on the [command line](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) and manage your project with just a couple of lines of code.
 
+  One thing I live by - before you start making any edits in a repo, always run:
+  ```r
+  git status
+  ```
+
 {{< panel name="Command Line" >}}
+
+I use terminal for more than I should... I used to be intimidated but once I started working with more complex data and larger projects I had to learn.
+
+One thing you can do is just open it up and start to hop around your machine (local or remote).
+
+You can also customize your terminal to your liking -- see [charles dobson's post](https://medium.com/@charlesdobson/how-to-customize-your-macos-terminal-7cce5823006e) for a step-by-step tutorial 
+
+KEY COMMANDS:
+
+> `cd` stands for change directory. it's how you will move in and out of different directories on your machine.
+
+> `ls` stands for list. you can run this in any directory and it will output its contents.</br>
+  ---> note: i like running `ls -al` which will give you a lot more information (e.g., permissions, date last modified, file size, etc.)
+
+> MORE TO COME (this page is a work in progress)
+
 {{< panel name="Python" >}}
+
+I'm also learning `python` right now so this will serve more as a notes section. Coming soon.

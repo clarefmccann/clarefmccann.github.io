@@ -13,6 +13,8 @@ title: Completed
 ### Increasing transitional compliance in a young girl with autism.</br>
 > *Role*. first-author + presenter
 
+> *Co-author*. lindsay glugatch 
+
 > *Where?* presented at the university of oregon undergraduate research symposium
 
 > *When?* may of 2019

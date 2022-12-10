@@ -57,6 +57,7 @@ alt: drawing of two people talking
 ### 2018-2019
 
 <details><summary>chapter coordinator for operation period</summary>
+
 > restructured a youth-led non-profit to provide advocacy, education, and services relating to menstrual inequity
 
 > learn about the initiative and how to get involved [here](https://www.operationperiod.org/)
@@ -103,5 +104,6 @@ alt: drawing of two people talking
  </details>
 
  <details><summary>get explicit 101</summary>
+
  > designed and implemented a presentation to give to incoming students at the University of Oregon. The presentation aimed to replace a prevention play surrounding the topic of sexual violence prevention and healthy relationships.
  </details>
