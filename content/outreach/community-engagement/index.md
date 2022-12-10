@@ -7,6 +7,8 @@ featured: true
 layout: single-sidebar
 show_post_time: false
 title: community engagement
+cascade:
+  featured_image: /featured-engage.jpg
 ---
 ## current
 
