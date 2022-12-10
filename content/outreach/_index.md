@@ -2,6 +2,7 @@
 title: outreach efforts
 description:
 author:
+date: "2022-12-08"
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
 show_author_byline: false

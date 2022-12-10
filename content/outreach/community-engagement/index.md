@@ -1,6 +1,7 @@
 ---
 author:
 categories:
+date: "2022-12-08"
 draft: false
 excerpt: some fun things i've done to engage the community in science
 featured: true
