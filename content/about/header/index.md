@@ -4,6 +4,7 @@ text_align_right: false
 show_title_as_headline: false
 headline: |
   Clare F. McCann
+layout: single
 ---
 
 <!-- this is a subheadline -->

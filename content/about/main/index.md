@@ -7,6 +7,7 @@ intro: |
 show_outro: true
 outro: |
   First-year Ph.D. student at UCLA
+layout: single
 ---
 
 ** index doesn't contain a body, just front matter above.

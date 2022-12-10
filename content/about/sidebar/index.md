@@ -13,6 +13,7 @@ link_list:
   url: https://quantitudepod.org/
 - name: fair uc now
   url: https://www.fairucnow.org/
+layout: single
 ---
 
 ** index doesn't contain a body, just front matter above.
