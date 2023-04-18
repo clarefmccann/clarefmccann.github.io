@@ -20,6 +20,7 @@ clarefmccann [at] ucla.edu
 ---------
 ## **_RESEARCH INTERESTS_**:
 * Exploring potential environmental (e.g., adversity) and biological factors (e.g., pubertal processes) contributing to individual differences in developmental outcomes with translational applications.
+* Disentangling the bio-psycho-social intersection of pubertal processes.
 * Supporting the development of self, purpose, and motivation in underserved youth and young adults.
 
 ## **_EDUCATION_**:
@@ -175,11 +176,13 @@ Structural Brain Development in Adolescent Girls*.
 
 **Posters**
 
-Barrett, A. -M. Y., Cheng T. W., Flannery, J., McCann, C.F., Mills, K. L., Chavez, R., Fisher, P., & Pfeifer,
-J. H. Comparing the Multivariate Relationships of Conceptual Adversity Models and
-Structural Brain Development in Adolescent Girls*. Poster presented at Flux Society Conference, Paris, France.
+McCann, C.F., Guassi Moreira, J., O'Kelly, M., Ninova, E., Silvers, J.A. (2023, April) Does Cognitive Reappraisal Enhance Impulse Inhibition during Subsequent Risk Taking? Poster presented at Society for Research on Adolescence, San Diego, CA.
 
 McCann, C.F., Barendse, M., Mills, K.L., Pfeifer, J.H. (2022, September) Puberty and Structural Brain Development: It's About Time. Poster presented at Flux Society Conference, Paris, France.
+
+Barrett, A. -M. Y., Cheng T. W., Flannery, J., **McCann, C.F.**, Mills, K. L., Chavez, R., Fisher, P., & Pfeifer,
+J. H. Comparing the Multivariate Relationships of Conceptual Adversity Models and
+Structural Brain Development in Adolescent Girls*. Poster presented at Flux Society Conference, Paris, France.
 
 McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-perceived scholastic competence, mindfulness, and school transitions in adolescent girls. Poster presented at the University of Oregon Psychology Honor's Ceremony, Eugene, OR.
 
@@ -187,6 +190,7 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 
 ## **_SERVICE & ACTIVITY_**:
 
+* High School Outreach Committee Member - Underrepresented Graduate Students in Psychology, UCLA
 * Volunteer - Brainhack Global 2022 Organizing Committee
 * Communications Committee Member for the Flux Society – 2022-Present
 * To Be Honest Youth Advisory Board – 2021-Present
@@ -202,6 +206,7 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 
 * National Science Policy Network (NSPN)
 * Social Affective Neuroscience Society (SANS)
+* Society for Research on Adolescence (SRA)
 * Flux: The Society for Developmental Cognitive Neuroscience
 * Organization for Human Brain Mapping (OHBM)
 

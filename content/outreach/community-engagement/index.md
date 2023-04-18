@@ -15,6 +15,9 @@ alt: drawing of two people talking
 ---
 ## current community engagement
 
+### high school outreach committee for UGSP at UCLA
+---> work with a team of grad students in the psychology department at ucla to engage high school students in conversations and events about research and potential next steps 
+
 ### flux society communication committee
 ---> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> ---> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
 

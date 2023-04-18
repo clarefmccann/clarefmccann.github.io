@@ -24,7 +24,7 @@ date: "2022-12-08"
 
 > [link to OSF](https://osf.io/3qnt7/)
 
-### Pubertal Perceptions in Adolescence</br>
+### Pubertal Perceptions in Adolescence - Focus Groups</br>
 > *Role*. co-primary investigator</br>
 
 > *Co-primary investigator*. jennifer a. silvers
@@ -33,15 +33,14 @@ date: "2022-12-08"
 
 > *Summary*. conducting focus groups to understand further how adolescents feel about puberty and what they want to know. we will also use the data collected to inform more inclusive measures of puberty.
 
-### Puberty Perception Measure</br>
+### Gender Neutral Puberty Perception Measure</br>
 > *Role*. first-author / co-creator
 
 > *Co-creators*. jennifer a. silvers, elizabeth a. shirtcliff, jennifer h. pfeifer
 
 > *Status*.</br>
----> under IRB review. </br>
----> will be piloted in the [tag study](https://uodsnlab.com/our-research/project-one-ry55p) </br>
----> will be implemented in a larger college-aged sample to link perceptions of puberty to later life outcomes and early life experience.
+---> will be collected in the [tag study](https://uodsnlab.com/our-research/project-one-ry55p) </br>
+---> active data collection in a larger college-aged sample to link perceptions of puberty to later life outcomes and early life experience.
 
 > *Summary*. created a measure to assess perceptions of puberty to derive a more social measure of pubertal development, focusing on the appraisal component. will work towards the proof of concept.
 
@@ -69,16 +68,3 @@ date: "2022-12-08"
 > *Status*. under review.
 
 > *Summary*. determining whether the dimensional or cumulative risk model of adversity better predicts cortical thinning in frontoparietal and frontotemporal networks and volumetric changes in subcortical regions throughout adolescence.
-
-## from Undergrad
-
-### Self-perceived scholastic competence and trait mindfulness during school transitions in adolescent girls.</br>
-> *Role*. first-author
-
-> *Co-authors*. theresa w. cheng, arian mobasser, jennifer h. pfeifer, kathryn l. mills
-
-> *Status*. accepted for publication to [collabra: psychology](https://online.ucpress.edu/collabra). yay!
-
-> *Summary*. undergraduate honors thesis exploring prior levels of trait mindfulness predicting later on levels of self-perceived scholastic competence in adolescent girls.
-
-> [link to OSF](https://osf.io/uynpm/)

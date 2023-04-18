@@ -52,7 +52,7 @@ subtitle:
   > Highly recommend checking [her work](https://research.monash.edu/en/persons/michelle-byrne) out.
   </details>
 
-  <details><summary>Dr. Theresa W. Cheng - Massachusetts General Hospital</summary>
+  <details><summary>Dr. Theresa W. Cheng - Harvard University </summary>
 
   > Undergraduate Research Mentor + Collaborator </br>
   ---> the reason i love coding and learning new things re: research methods
@@ -80,6 +80,12 @@ subtitle:
 
 #### present
 
+  <details><summary>Giana Clarot- Undergraduate at UCLA</summary>
+
+  > work together on "Pathways in Adolescence"
+  > work together on conducting high school focus groups
+  </details>
+
   <details><summary>Maya O'Kelly - Undergraduate at UCLA</summary>
 
   > work together on "Pathways in Adolescence"
@@ -88,7 +94,7 @@ subtitle:
 #### past
 
   <details><summary>Kayalin Abendroth-Jones, B.S. - University of Oregon</summary>
-  
+
   > Mentored on her undergraduate honors thesis </br>
   ---> contributed conceptual design, code, and stats
   </details>
