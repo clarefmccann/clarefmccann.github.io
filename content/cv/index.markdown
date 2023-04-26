@@ -79,19 +79,6 @@ The University of Oregon - Dean's List</br>
 * Created flyers and ads to facilitate recruitment
 * Transcribed EEG session notes
 
-## **_CLINICAL EXPERIENCE_**:
-
-**Lead Clinician | HEDCO Autism Research & Training Center | University of Oregon**</br>
-*September 2018 – June 2020*</br>
-**Supervisor**: Wendy Machalicek, Ph.D. & Lindsay Glugatch, M.A., BCBA</br>
-
-* Systematically collected, graphed, and analyzed behavioral data during clinical intervention sessions on a single case study
-* Performed Applied Behavior Analysis (ABA) interventions with a four-year-old diagnosed with autism spectrum disorder
-* Trained new undergraduate interns on behavioral observation data collection
-* Collaborated with parents and professionals to create treatment goals and behavior plans
-* Assisted with graduate student research studies by helping with the recruitment of participants, inputting screening information, and reviewing relevant scientific literature
-* Completed an independent research project using a single-case study
-
 ## **_PROFESSIONAL EXPERIENCE_**:
 
 **Student Assistant | Vivian Olum Child Developmental Center | University of Oregon**</br>
@@ -186,8 +173,6 @@ Structural Brain Development in Adolescent Girls*. Poster presented at Flux Soci
 
 McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-perceived scholastic competence, mindfulness, and school transitions in adolescent girls. Poster presented at the University of Oregon Psychology Honor's Ceremony, Eugene, OR.
 
-McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a young girl with autism. Poster presented at the University of Oregon Undergraduate Research Symposium, Eugene, OR.
-
 ## **_SERVICE & ACTIVITY_**:
 
 * High School Outreach Committee Member - Underrepresented Graduate Students in Psychology, UCLA
@@ -222,7 +207,6 @@ McCann, C.F., Glugatch, L. (2019, May) Increasing transitional compliance in a y
 * IBM Data Science Specialization – In Progress
 * Scan Operator Certified (40-hour training) – Lewis Center for Neuroimaging
 * CPR, AED, & First Aid Certified – EMS Safety Services
-* Registered Behavior Technician – Behavior Analysis Certification Board
 * Lewis Center for Neuroimaging's MRI Safety Certified – University of Oregon
 
 ## **_TRAINING_**:
