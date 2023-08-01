@@ -16,7 +16,7 @@ date: "2023-08-01"
 
 > *Co-authors*. jennifer a. silvers 
 
-> *Status*. 
+> *Status*.</br> 
 ---> writing analysis script 
 
 > *Summary*. using the [pubertal-age-gap](https://www.medrxiv.org/content/10.1101/2022.05.13.22275069v1) to derive pubertal timing in the [ABCD study](https://abcdstudy.org/) and examine its association with emotional processing in the brain and emotional well-being.
@@ -52,7 +52,8 @@ date: "2023-08-01"
 
 > *Co-primary investigator*. jennifer a. silvers
 
-> *Status*. beginning data collection.
+> *Status*. </br>
+---> beginning data collection.
 
 > *Summary*. conducting focus groups to understand further how adolescents feel about puberty and what they want to know. we will also use the data collected to inform more inclusive measures of puberty.
 

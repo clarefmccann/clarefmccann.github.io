@@ -15,10 +15,10 @@ date: "2023-08-01"
 
 ## interactive tutorials
 
-> [andy's brain blog](https://www.andysbrainblog.com/)
-> [mumford brain stats youtube](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA)
-> [martin monti's youtube channel](https://www.youtube.com/@braintalk9664)
-> [krista destasio's bids tutorial](https://github.com/kdestasio/bidsQC)
+> [andy's brain blog](https://www.andysbrainblog.com/)</br>
+> [mumford brain stats youtube](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA)</br>
+> [martin monti's youtube channel](https://www.youtube.com/@braintalk9664)</br>
+> [krista destasio's bids tutorial](https://github.com/kdestasio/bidsQC)</br>
 
 ## discussion boards
 
@@ -26,5 +26,5 @@ date: "2023-08-01"
 
 ## tools 
 
-> [bids specification](https://github.com/bids-standard/bids-specification)
+> [bids specification](https://github.com/bids-standard/bids-specification)</br>
 > [mango for viewing & animating brain stuff](https://mangoviewer.com/)
