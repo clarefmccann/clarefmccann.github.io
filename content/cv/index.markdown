@@ -39,6 +39,7 @@ Honors Thesis: Examining self-perceived scholastic competence, mindfulness, and 
 
 ## **_AWARDS & HONORS_**:
 
+University of California, Los Angeles Psychology Summer Research Award 2023</br>
 University of California, Los Angeles Graduate Summer Research Mentorship 2023</br>
 The University of California, Los Angeles Alumni Fellowship 2022</br>
 University of Oregon – Psychology Undergraduate Commencement Speaker 2020</br>
@@ -80,6 +81,8 @@ Structural Brain Development in Adolescent Girls*.
 
 **Posters**
 
+McCann, C.F., Ali, S., Whitmore, L., Thieu, M., Laird, A. (2023, July). Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study. Poster presented at the Organization for Human Brain Mapping Conference, Montreal, Quebec.
+
 McCann, C.F., Guassi Moreira, J., O'Kelly, M., Ninova, E., Silvers, J.A. (2023, April) Does Cognitive Reappraisal Enhance Impulse Inhibition during Subsequent Risk Taking? Poster presented at Society for Research on Adolescence, San Diego, CA.
 
 McCann, C.F., Barendse, M., Mills, K.L., Pfeifer, J.H. (2022, September) Puberty and Structural Brain Development: It's About Time. Poster presented at Flux Society Conference, Paris, France.
@@ -95,6 +98,9 @@ McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-p
 Teaching Assistant
 
 ## **_PROFESSIONAL EXPERIENCE_**:
+
+**Mentor | Polygence**</br> 
+*May 2023 –  Present*</br> 
 
 **Student Assistant | Vivian Olum Child Developmental Center | University of Oregon**</br>
 *September 2017 – June 2020*</br>
@@ -141,11 +147,17 @@ Collaborative Institutional Training Initiative (CITI) – Human Subjects Resear
 
 ## **_PROFESSIONAL SERVICE & COMMUNITY OUTREACH_**:
 
+Orientation Committee</br>
+**Department of Psychology, Developmental Area, UCLA, September 2023**</br> 
+Blog Writer</br> 
+**Psychology in Action, June 2023-Present**</br> 
+High School Outreach Committee</br>
+**Underrepresented Graduate Students in Psychology, 2022-Present**</br>
+Youth Advisory Board Member</br>
+**To Be Honest, 2021-2023**</br>
 Brainhack Global 2022 Organizing Committee</br>
 Communications Committee Member</br>
 **Flux Society, 2022-Present**</br>
-Youth Advisory Board Member</br>
-**To Be Honest, 2021-Present**</br>
 Sighted Volunteer </br>
 **Be My Eyes, 2020-Present**</br>
 Crisis Text Line Counselor</br>

@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2022-12-08"
+date: "2023-08-01"
 draft: false
 excerpt: some fun things i've done to engage the community in science and science with the community
 featured: true
@@ -15,25 +15,34 @@ alt: drawing of two people talking
 ---
 ## current community engagement
 
+### psychology in action blog writer 
+---> work with a team of phd students at ucla to increase community engagement in scientific research
+
 ### high school outreach committee for UGSP at UCLA
 ---> work with a team of grad students in the psychology department at ucla to engage high school students in conversations and events about research and potential next steps 
 
 ### flux society communication committee
 ---> work with a team made up of other flux members to disseminate current research, outreach events, and special occasions to different social media platforms </br> ---> [click here to learn more about the flux society](https://fluxsociety.org/communications-committee/)
 
-### organization committee for brainhack global
-
----> help manage the communication between all [brainhack events](https://brainhack.org/global2022/)
-
-### to be honest youth advisory board member
----> sit on a board specialized in working with youth to de-stigmatize mental health </br>
----> [click here to learn more about tbh](https://linktr.ee/tbhtoday)
-
 ### be my eyes sighted volunteer
 ---> assist those with impaired vision when requested through the Be My Eyes application </br>
 ---> [click here to learn more about be my eyes](https://www.bemyeyes.com/about)
 
 ## past community engagement
+
+### 2021-2023
+<details><summary>to be honest youth advisory board member</a></summary>
+
+> sat on a board specialized in working with youth to de-stigmatize mental health </br>
+
+> [click here to learn more about tbh](https://linktr.ee/tbhtoday)
+</details>
+
+### 2022
+<details><summary>organization committee for brainhack global</a></summary>
+
+> helped manage the communication between all [brainhack events](https://brainhack.org/global2022/)
+</details>
 
 ### 2020-2022
 <details><summary>crisis text line counselor</a></summary>

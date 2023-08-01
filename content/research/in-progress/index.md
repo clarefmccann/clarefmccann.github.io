@@ -6,10 +6,33 @@ excerpt: cue the jeopardy theme song
 layout: single-sidebar
 subtitle: Works being worked on "actively"
 title: In Progress
-date: "2022-12-08"
+date: "2023-08-01"
 ---
 
 ## from Ph.D.
+
+### Pubertal Timing and Emotion in the ABCD Study
+> *Role*. first-author
+
+> *Co-authors*. jennifer a. silvers 
+
+> *Status*. 
+---> writing analysis script 
+
+> *Summary*. using the [pubertal-age-gap](https://www.medrxiv.org/content/10.1101/2022.05.13.22275069v1) to derive pubertal timing in the [ABCD study](https://abcdstudy.org/) and examine its association with emotional processing in the brain and emotional well-being.
+
+> [link to OSF](https://osf.io/3hmju/)
+
+### Part 2: A Researcher's Guide to the Longitudinal Measurement and Modeling of Puberty in the ABCD Study
+> *Role*. first-author
+
+> *Co-authors*. theresa w. cheng, lucía magis-weinberg, victora guazzelli williamson, niamh macsweeney, cecile d. ladouceur, sarah l. wittle, megan m. merting, kristina a. uban, michelle l. byrne, marjolein e.a. barendse, elizabeth a. shirtcliff, megan peterson, katie bottenham, jennifer h. pfeifer, jennifer a. silvers  
+
+> *Status*. </br>
+---> forming working groups and establishing a project timeline 
+---> structuring outline 
+
+> *Summary*. will be writing a follow-up piece on ["a researcher's guide to the measurement and modeling of puberty in the ABCD study at baseline"](https://pubmed.ncbi.nlm.nih.gov/34025573/) but focusing on the longitudinal nature of the dataset.
 
 ### Puberty and Structural Brain Development: It's About Time</br>
 > *Role*. first-author</br>
@@ -29,7 +52,7 @@ date: "2022-12-08"
 
 > *Co-primary investigator*. jennifer a. silvers
 
-> *Status*. under IRB review.
+> *Status*. beginning data collection.
 
 > *Summary*. conducting focus groups to understand further how adolescents feel about puberty and what they want to know. we will also use the data collected to inform more inclusive measures of puberty.
 
