@@ -93,6 +93,11 @@ Structural Brain Development in Adolescent Girls*. Poster presented at Flux Soci
 
 McCann, C.F., Cheng, T.W., Pfeifer, J.H., Mills, K. (2020, May) Examining self-perceived scholastic competence, mindfulness, and school transitions in adolescent girls. Poster presented at the University of Oregon Psychology Honor's Ceremony, Eugene, OR.
 
+## **_NON-PEER REVIEWED WORK_**:
+
+McCann, C.F. (2023, June) “Are You There, god? It’s Me, Margaret”: Let’s talk about puberty! Blog posted on Psychology in Action.
+
+
 ## **_TEACHING_**:
 **Introduction to Psychology** – Winter 2023 </br>
 Teaching Assistant
