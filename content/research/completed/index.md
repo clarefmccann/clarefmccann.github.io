@@ -1,6 +1,6 @@
 ---
 author: Clare F. McCann
-date: "2023-08-01"
+date: "2024-02-09"
 categories:
 draft: false
 excerpt: projects that i am no longer working on
@@ -9,6 +9,15 @@ title: Completed
 ---
 
 ## post bac work
+
+### Comparing the Multivariate Relationships of Conceptual Adversity Models and Structural Brain Development in Adolescent Girls*.</br>
+> *Role*. fourth-author w/ [ann-marie barrett](https://uodsnlab.com/team/annmariebarrett) as first-author</br
+
+> *Co-authors*. theresa w. cheng, jessica flannery, kathryn l. mills, robert chavez, phil fisher, jennifer h. pfeifer
+
+> *Status*. under review.
+
+> *Summary*. determining whether the dimensional or cumulative risk model of adversity better predicts cortical thinning in frontoparietal and frontotemporal networks and volumetric changes in subcortical regions throughout adolescence.
 
 ### Self-perceived scholastic competence and trait mindfulness during school transitions in adolescent girls
 > *Role*. first author

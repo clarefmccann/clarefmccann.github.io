@@ -6,10 +6,20 @@ excerpt: cue the jeopardy theme song
 layout: single-sidebar
 subtitle: Works being worked on "actively"
 title: In Progress
-date: "2023-08-01"
+date: "2024-02-09"
 ---
 
 ## from Ph.D.
+
+### Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice
+> *Role*. first-author
+
+> *Co-authors*. jennifer a. silvers
+
+> *Status*. </br>
+---> writing first draft
+
+> *Summary*. invited chapter for a textbook on supporting positive youth development for the [4-h non-profit](https://4-h.org/?utm_source=google-ads&utm_campaign&utm_agid=87845952896&utm_term=4h&creative=409188558698&device=c&placement&wickedsource=google&wickedid=409188558698&wcid=8707445715&wv=4&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO5iu2mj5pIaoYTIlA2YMHP8D8eVCl-kKu_2nn6vyOnvRHEcRWqHyUhoCRP0QAvD_BwE) chapter in oregon 
 
 ### Pubertal Timing and Emotion in the ABCD Study
 > *Role*. first-author
@@ -17,22 +27,21 @@ date: "2023-08-01"
 > *Co-authors*. jennifer a. silvers 
 
 > *Status*.</br> 
----> writing analysis script 
+---> waiting for raw data 
 
 > *Summary*. using the [pubertal-age-gap](https://www.medrxiv.org/content/10.1101/2022.05.13.22275069v1) to derive pubertal timing in the [ABCD study](https://abcdstudy.org/) and examine its association with emotional processing in the brain and emotional well-being.
 
 > [link to OSF](https://osf.io/3hmju/)
 
-### Part 2: A Researcher's Guide to the Longitudinal Measurement and Modeling of Puberty in the ABCD Study
+### Longitudinal Assessments of Puberty: Considerations for Developmental Scientists.
 > *Role*. first-author
 
 > *Co-authors*. theresa w. cheng, lucía magis-weinberg, victora guazzelli williamson, niamh macsweeney, cecile d. ladouceur, sarah l. wittle, megan m. merting, kristina a. uban, michelle l. byrne, marjolein e.a. barendse, elizabeth a. shirtcliff, megan peterson, katie bottenham, jennifer h. pfeifer, jennifer a. silvers  
 
 > *Status*. </br>
----> forming working groups and establishing a project timeline 
----> structuring outline 
+---> completing first draft
 
-> *Summary*. will be writing a follow-up piece on ["a researcher's guide to the measurement and modeling of puberty in the ABCD study at baseline"](https://pubmed.ncbi.nlm.nih.gov/34025573/) but focusing on the longitudinal nature of the dataset.
+> *Summary*. will be writing a follow-up piece on ["a researcher's guide to the measurement and modeling of puberty in the ABCD study at baseline"](https://pubmed.ncbi.nlm.nih.gov/34025573/) but focusing on the longitudinal nature of of puberty data beyond the context of ABCD.
 
 ### Puberty and Structural Brain Development: It's About Time</br>
 > *Role*. first-author</br>
@@ -57,14 +66,14 @@ date: "2023-08-01"
 
 > *Summary*. conducting focus groups to understand further how adolescents feel about puberty and what they want to know. we will also use the data collected to inform more inclusive measures of puberty.
 
-### Gender Neutral Puberty Perception Measure</br>
+### Puberty Appriasal Measure</br>
 > *Role*. first-author / co-creator
 
 > *Co-creators*. jennifer a. silvers, elizabeth a. shirtcliff, jennifer h. pfeifer
 
 > *Status*.</br>
 ---> will be collected in the [tag study](https://uodsnlab.com/our-research/project-one-ry55p) </br>
----> active data collection in a larger college-aged sample to link perceptions of puberty to later life outcomes and early life experience.
+---> drafting manuscript
 
 > *Summary*. created a measure to assess perceptions of puberty to derive a more social measure of pubertal development, focusing on the appraisal component. will work towards the proof of concept.
 
@@ -82,13 +91,4 @@ date: "2023-08-01"
 > [link to OSF - study 1](https://osf.io/3ju8p/) </br>
 > [link to OSF - study 2](https://osf.io/3u26x/)
 
-## from Post-Bac
 
-### Comparing the Multivariate Relationships of Conceptual Adversity Models and Structural Brain Development in Adolescent Girls*.</br>
-> *Role*. fourth-author w/ [ann-marie barrett](https://uodsnlab.com/team/annmariebarrett) as first-author</br
-
-> *Co-authors*. theresa w. cheng, jessica flannery, kathryn l. mills, robert chavez, phil fisher, jennifer h. pfeifer
-
-> *Status*. under review.
-
-> *Summary*. determining whether the dimensional or cumulative risk model of adversity better predicts cortical thinning in frontoparietal and frontotemporal networks and volumetric changes in subcortical regions throughout adolescence.

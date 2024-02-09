@@ -67,19 +67,28 @@ The University of Oregon - Dean's List</br>
 
 *McCann, C.F., Cheng, T.W., Mobasser, A., Mills, K., Pfeifer, J. (2022) Self-perceived scholastic competence and trait mindfulness during school transitions in adolescent girls.
 
+Barrett, A. -M. Y., Cheng T. W., Flannery, J., **McCann, C.F.**, Mills, K. L., Chavez, R., Fisher, P., & Pfeifer,
+J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Models and Structural Brain Development in Adolescent Girls.
+
 **Under Review**
 
-Barrett, A. -M. Y., Cheng T. W., Flannery, J., **McCann, C.F.**, Mills, K. L., Chavez, R., Fisher, P., & Pfeifer,
-J. H. Comparing the Multivariate Relationships of Conceptual Adversity Models and
-Structural Brain Development in Adolescent Girls*.
+*Ali, S., *McCann, C.F., *Whitmore, L., *Thieu, M., Laird, A. (Under review) Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study.
 
 **In Prep**
 
 *McCann, C.F., Mills, K., Barendse, M., Pfeifer, J. (In Prep) Puberty and Structural Brain Development: It's About Time.
 
+*McCann, C.F., Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Uban, K., Whittle, S., Pfeifer, J.H. (In Prep) Longitudinal Assessments of Puberty: Considerations for Developmental Scientists.
+
+*McCann, C.F., Du, H., Galván, A., & Silvers, J.A. (In Prep) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
+
+*McCann, C.F. & *Silvers, J.A. (In Prep), Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
+
 ## **_POSTERS AND PRESENTATIONS_**:
 
 **Posters**
+
+McCann, C.F. & Silvers, J.A. (2023, September). Pubertal Timing and Affective Processing in the ABCD Study. Posted presented at the 11th Annual Flux Society for Development Cognitive Neuroscience Congress, Santa Rosa, CA. 
 
 McCann, C.F., Ali, S., Whitmore, L., Thieu, M., Laird, A. (2023, July). Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study. Poster presented at the Organization for Human Brain Mapping Conference, Montreal, Quebec.
 
@@ -100,6 +109,9 @@ McCann, C.F. (2023, June) “Are You There, god? It’s Me, Margaret”: Let’s
 
 ## **_TEACHING_**:
 **Introduction to Psychology** – Winter 2023 </br>
+Teaching Assistant
+
+**Developmental Psychology** - Fall 2023 & Winter 2024 </br>
 Teaching Assistant
 
 ## **_PROFESSIONAL EXPERIENCE_**:
@@ -154,25 +166,36 @@ Collaborative Institutional Training Initiative (CITI) – Human Subjects Resear
 
 Orientation Committee</br>
 **Department of Psychology, Developmental Area, UCLA, September 2023**</br> 
+</br> 
 Blog Writer</br> 
 **Psychology in Action, June 2023-Present**</br> 
+</br> 
 High School Outreach Committee</br>
 **Underrepresented Graduate Students in Psychology, 2022-Present**</br>
+</br> 
 Youth Advisory Board Member</br>
 **To Be Honest, 2021-2023**</br>
+</br> 
 Brainhack Global 2022 Organizing Committee</br>
+</br> 
 Communications Committee Member</br>
 **Flux Society, 2022-Present**</br>
+</br> 
 Sighted Volunteer </br>
 **Be My Eyes, 2020-Present**</br>
+</br> 
 Crisis Text Line Counselor</br>
 **Crisis Text Line, 2021-2022**</br>
+</br> 
 Letter Writer</br>
 **Virtual Prison Correspondence Program, Critical Resistance, 2020-2022**</br>
+</br> 
 iCouldBe Mentor</br>
 **iCouldBe, 2020-2022**</br>
+</br> 
 Living Lab Day</br>
 **Eugene Science Museum, 2020**</br>
+</br> 
 Summer Academy to Inspire Learning</br>
 **University of Oregon, 2020**
 
