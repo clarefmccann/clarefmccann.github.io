@@ -39,6 +39,7 @@ Honors Thesis: Examining self-perceived scholastic competence, mindfulness, and 
 
 ## **_AWARDS & HONORS_**:
 
+National Institute of Child and Health Development T32 Fellowship - Brain and Behavioral Development during Adolescence 2024 </br>
 University of California, Los Angeles Psychology Summer Research Award 2023</br>
 University of California, Los Angeles Graduate Summer Research Mentorship 2023</br>
 The University of California, Los Angeles Alumni Fellowship 2022</br>
@@ -65,14 +66,20 @@ The University of Oregon - Dean's List</br>
 
 **Publications**
 
-*McCann, C.F., Cheng, T.W., Mobasser, A., Mills, K., Pfeifer, J. (2022) Self-perceived scholastic competence and trait mindfulness during school transitions in adolescent girls.
+*McCann, C.F., Cheng, T.W., Mobasser, A., Mills, K., Pfeifer, J. (2022) Self-perceived scholastic competence and trait mindfulness during school transitions in adolescent girls. *Collabra: Psychology.*
 
 Barrett, A. -M. Y., Cheng T. W., Flannery, J., **McCann, C.F.**, Mills, K. L., Chavez, R., Fisher, P., & Pfeifer,
-J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Models and Structural Brain Development in Adolescent Girls.
+J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Models and Structural Brain Development in Adolescent Girls. *Developmental Psychology.*
+
+*Ali, S., *McCann, C.F., *Whitmore, L., *Thieu, M., Laird, A. (2024) Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study. *Developmental Cognitive Neuroscience.*
+
+**In Press**
+
++Yim, C. & McCann, C.F. (Accepted, in press) Effects of Social Support on Adolescent Identity Development. *Journal of Emerging Investigators.*
 
 **Under Review**
 
-*Ali, S., *McCann, C.F., *Whitmore, L., *Thieu, M., Laird, A. (Under review) Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study.
+*McCann, C.F. & Silvers, J.A. (Under review). *Invited Chapter*: Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
 
 **In Prep**
 
@@ -80,11 +87,13 @@ J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Mo
 
 *McCann, C.F., Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Uban, K., Whittle, S., Pfeifer, J.H. (In Prep) Longitudinal Assessments of Puberty: Considerations for Developmental Scientists.
 
-*McCann, C.F., Du, H., Galván, A., & Silvers, J.A. (In Prep) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
-
-*McCann, C.F. & *Silvers, J.A. (In Prep), Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
+*McCann, C.F., Enders, C., Galván, A., & Silvers, J.A. (In Prep) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
 
 ## **_POSTERS AND PRESENTATIONS_**:
+
+**Presentations**
+
+McCann, C.F., +Clarot, G., Silvers, J.A. (2024, April). Adolescent and Young Adult Perspectives on Puberty. Presented in the “Advancement in pubertal markers and measurement” symposium at the Society for Research on Adolescence, Chicago, IL.
 
 **Posters**
 
@@ -114,7 +123,13 @@ Teaching Assistant
 **Developmental Psychology** - Fall 2023 & Winter 2024 </br>
 Teaching Assistant
 
+**Developmental Psychology** - Spring 2024 </br>
+Teaching Associate
+
 ## **_PROFESSIONAL EXPERIENCE_**:
+
+**Mentor | Summa Mentorship Program – Research Program for High School Students**</br>
+*February 2024 – Present*</br> 
 
 **Mentor | Polygence**</br> 
 *May 2023 –  Present*</br> 
@@ -198,4 +213,7 @@ Living Lab Day</br>
 </br> 
 Summer Academy to Inspire Learning</br>
 **University of Oregon, 2020**
+
+
+Note: * = first authorship, + = mentee
 

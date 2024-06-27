@@ -15,6 +15,9 @@ alt: drawing of two people talking
 ---
 ## current community engagement
 
+### facilitator of high school summer boot camp 
+---> working with 2 other graduate students to put on a summer boot camp on adolescent brain development at UCLA through the center for the developing adolescent 
+
 ### psychology in action blog writer 
 ---> work with a team of phd students at ucla to increase community engagement in scientific research
 

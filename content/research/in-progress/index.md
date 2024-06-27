@@ -6,10 +6,41 @@ excerpt: cue the jeopardy theme song
 layout: single-sidebar
 subtitle: Works being worked on "actively"
 title: In Progress
-date: "2024-02-09"
+date: "2024-06-27"
 ---
 
 ## from Ph.D.
+
+### Pubertal Timing and Tempo & Structural Brain Development in Adolescence
+> *Role*. first-author
+
+> *Co-author*. jennifer a. silvers
+
+> *Status*. </br>
+---> accepted into flux annual congress 2024
+
+> *Summary*. examining the role of pubertal timing and tempo in differing developmental trajectories of structural brain development
+
+### Pubertal Signatures: Unraveling Emotional Neurodevelopment Through Timing
+> *Role*. first-author
+
+> *Co-authors*. bridget callaghan & jennifer a. silvers
+
+> *Status*. </br>
+---> preparing to be submitted
+
+> *Summary*. qualifying exam + DCN special issue submission exploring literature on pubertal processes and affective neurodevelopment in humans
+
+### “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
+> *Role*. first-author
+
+> *Co-authors*. craig enders, adriana galvan, & jennifer a. silvers
+
+> *Status*. </br>
+---> preparing to be submitted
+
+> *Summary*. first year project examining the role of early life adversity, pubertal onset, and appraisals of puberty in young adult emotional well-being.
+
 
 ### Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice
 > *Role*. first-author
@@ -17,7 +48,7 @@ date: "2024-02-09"
 > *Co-authors*. jennifer a. silvers
 
 > *Status*. </br>
----> writing first draft
+---> under review
 
 > *Summary*. invited chapter for a textbook on supporting positive youth development for the [4-h non-profit](https://4-h.org/?utm_source=google-ads&utm_campaign&utm_agid=87845952896&utm_term=4h&creative=409188558698&device=c&placement&wickedsource=google&wickedid=409188558698&wcid=8707445715&wv=4&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO5iu2mj5pIaoYTIlA2YMHP8D8eVCl-kKu_2nn6vyOnvRHEcRWqHyUhoCRP0QAvD_BwE) chapter in oregon 
 
@@ -55,16 +86,6 @@ date: "2024-02-09"
 > *Summary*. examining how pubertal timing and tempo derived from both self-report and hormonal measures of puberty predict structural brain development in a cohort of 174 adolescents.
 
 > [link to OSF](https://osf.io/3qnt7/)
-
-### Pubertal Perceptions in Adolescence - Focus Groups</br>
-> *Role*. co-primary investigator</br>
-
-> *Co-primary investigator*. jennifer a. silvers
-
-> *Status*. </br>
----> beginning data collection.
-
-> *Summary*. conducting focus groups to understand further how adolescents feel about puberty and what they want to know. we will also use the data collected to inform more inclusive measures of puberty.
 
 ### Puberty Appriasal Measure</br>
 > *Role*. first-author / co-creator

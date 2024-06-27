@@ -1,12 +1,24 @@
 ---
 author: Clare F. McCann
-date: "2024-02-09"
+date: "2024-06-27"
 categories:
 draft: false
 excerpt: projects that i am no longer working on
 layout: single-sidebar
 title: Completed
 ---
+
+
+## graduate work 
+
+### Pubertal Perceptions in Adolescence - Focus Groups</br>
+> *Role*. co-primary investigator</br>
+
+> *Co-primary investigator*. jennifer a. silvers
+
+> *Status*. collected.
+
+> *Summary*. conducting focus groups to understand further how adolescents feel about puberty and what they want to know. we will also use the data collected to inform more inclusive measures of puberty.
 
 ## post bac work
 
@@ -15,7 +27,7 @@ title: Completed
 
 > *Co-authors*. theresa w. cheng, jessica flannery, kathryn l. mills, robert chavez, phil fisher, jennifer h. pfeifer
 
-> *Status*. under review.
+> *Status*. accepted.
 
 > *Summary*. determining whether the dimensional or cumulative risk model of adversity better predicts cortical thinning in frontoparietal and frontotemporal networks and volumetric changes in subcortical regions throughout adolescence.
 
