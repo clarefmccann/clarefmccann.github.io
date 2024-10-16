@@ -14,7 +14,7 @@ layout: list # list, list-sidebar, list-grid
 sidebar:
   title: outreach efforts
   description: |
-    being an adolescent researcher, i place outreach at a high priority - read about what i do and have done here!
+    i place outreach at a high priority - read about what i do and have done here!
   author: "clare f. mccann"
   show_sidebar_adunit: false # show ad container
 

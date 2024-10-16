@@ -3,10 +3,10 @@
 title: "statement of self" # leave blank to exclude
 show_intro: true
 intro: |
-  I actively make sure my life is a safe space for all BIPOC, gender diverse, neurodivergent, and queer folks which means my website is too <3 There will be no tolerance for threats of any level to the safety of this space.
+  don't be rude!
 show_outro: true
 outro: |
-  second-year Ph.D. student at UCLA
+  third-year Ph.D. student at UCLA
 layout: single
 ---
 

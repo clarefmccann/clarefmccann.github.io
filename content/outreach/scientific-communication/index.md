@@ -3,7 +3,7 @@ author:
 categories:
 date: "2023-08-01"
 draft: false
-excerpt: some fun things i've done to improve communication between scientists
+excerpt: some fun things i've done to improve communication from scientists
 layout: single-sidebar
 subtitle:
 title: scientific communication

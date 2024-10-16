@@ -86,12 +86,16 @@ subtitle:
   > work together on conducting high school focus groups
   </details>
 
+#### past
+  <details><summary>Kathleen Rae Deguzman - Undergraduate at UCLA</summary>
+
+  > mentored her on her honor's thesis
+  </details>
+
   <details><summary>Maya O'Kelly - Undergraduate at UCLA</summary>
 
   > work together on "Pathways in Adolescence"
   </details>
-
-#### past
 
   <details><summary>Kayalin Abendroth-Jones, B.S. - University of Oregon</summary>
 

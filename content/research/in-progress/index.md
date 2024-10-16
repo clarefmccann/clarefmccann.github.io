@@ -4,7 +4,7 @@ categories:
 draft: false
 excerpt: cue the jeopardy theme song
 layout: single-sidebar
-subtitle: Works being worked on "actively"
+subtitle: works being worked on actively
 title: In Progress
 date: "2024-06-27"
 ---

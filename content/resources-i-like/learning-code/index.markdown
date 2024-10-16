@@ -19,18 +19,14 @@ date: "2022-12-08"
 
 ## learn by doing!
 
-> there's no better way to learn than having to...
-
 >tips:
-  > if you usually clean your data in a certain language or platform, try using a new one to add dimension to your skillset.
+  > if you usually clean your data in a certain language or platform, try using a new one!
 
-  > stackoverflow <3
+  > [stackoverflow](https://stackoverflow.com/)
 
   > interactive tutorials! (e.g., [datacamp](https://www.datacamp.com/?irclickid=1u8RaNyBuxyNRS2w-Vw7PXGtUkAxuMS90QtpU80&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-2334778_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Linkbux&utm_content=ONLINE_TRACKING_LINK))
 
-  > commit to completing a project using a specific language
-
-  > become really good at googling - copy + paste your errors!
+  > become really good at googling - copy + paste the important part of your errors!
 
   > if you find the answer, challenge yourself to understand why that way works and your way doesn't
 
@@ -68,11 +64,7 @@ pacman::p_load("dplyr", "ggplot2", "psych", install = TRUE)
 
 {{< panel name="Command Line" >}}
 
-I use terminal for more than I should... I used to be intimidated but once I started working with more complex data and larger projects I had to learn.
-
-One thing you can do is just open it up and start to hop around your machine (local or remote).
-
-You can also customize your terminal to your liking -- see [charles dobson's post](https://medium.com/@charlesdobson/how-to-customize-your-macos-terminal-7cce5823006e) for a step-by-step tutorial 
+You can customize your terminal to your liking -- see [charles dobson's post](https://medium.com/@charlesdobson/how-to-customize-your-macos-terminal-7cce5823006e) for a step-by-step tutorial 
 
 KEY COMMANDS:
 
