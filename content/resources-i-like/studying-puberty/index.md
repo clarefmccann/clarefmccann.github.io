@@ -11,7 +11,7 @@ title: studying puberty
 date: "2024-10-15"
 ---
 
-### Code
+## Code
 > [PDS → Tanner Stage](https://github.com/clarefmccann/PDS_to_TS/blob/main/PDS_to_TS_abcd.Rmd)
 
 > [Puberty Composite Score for studies collecting line drawings and PDS](https://github.com/dsnlab/TAG_scripts/blob/master/behavioral/pubertyQs/PubertyComposite_allwaves.R) 
@@ -26,7 +26,7 @@ date: "2024-10-15"
 
 > [Code for cleaning and correcting hormone levels in ABCD](https://github.com/marjolein15/Cleaning-ABCD-hormone-data) 
 
-### Documents & Guides
+## Documents & Guides
 > [Herting saliva decision tree](https://pubmed.ncbi.nlm.nih.gov/33679599/)
 
 > [Cheng et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34025573/)
