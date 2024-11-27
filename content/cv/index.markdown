@@ -73,21 +73,23 @@ J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Mo
 
 *Ali, S., *McCann, C.F., *Whitmore, L., *Thieu, M., Laird, A. (2024) Now I Know My ABCD! A Global Resource for Researchers Using the ABCD Study. *Developmental Cognitive Neuroscience.*
 
++Yim, C. & McCann, C.F. (2024) Effects of Social Support on Adolescent Identity Development. *Journal of Emerging Investigators.*
+
 **In Press**
 
-+Yim, C. & McCann, C.F. (Accepted, in press) Effects of Social Support on Adolescent Identity Development. *Journal of Emerging Investigators.*
+*McCann, C.F. & Silvers, J.A. (Accepted, in press). *Invited Chapter*: Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
 
 **Under Review**
 
-*McCann, C.F. & Silvers, J.A. (Under review). *Invited Chapter*: Positive Emotionality and Regulation. Positive Youth Development: Integrating Research and Practice.
+*McCann, C.F., Enders, C., Galván, A., & Silvers, J.A. (Under Review) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
+
+Rosenberg, B. M., Guassi Moreira, J. F., Méndez Leal, A. S., Saragosa-Harris, N. M., GAINES, E. M., Meredith, W. J., **McCann, C.F.**, ... Silvers, J. A. (2024, November 22). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Safety Learning. https://doi.org/10.31234/osf.io/9gbp3
 
 **In Prep**
 
 *McCann, C.F., Mills, K., Barendse, M., Pfeifer, J. (In Prep) Puberty and Structural Brain Development: It's About Time.
 
 *McCann, C.F., Barendse, M., Bottenhorn, K., Byrne, M., Cheng, T.W.C., Guazzelli Williamson, V., Herting, M., Ladouceur, C., MacSweeney, N., Magis-Weinberg, L., McCormick, E., Patterson, M., Shirtcliff, E., Silvers, J.A., Uban, K., Whittle, S., Pfeifer, J.H. (In Prep) Longitudinal Assessments of Puberty: Considerations for Developmental Scientists.
-
-*McCann, C.F., Enders, C., Galván, A., & Silvers, J.A. (In Prep) “And how do you feel about that?”: Early life adversity, Pubertal Appraisals, and Well-being in Young Adults.
 
 ## **_POSTERS AND PRESENTATIONS_**:
 
@@ -96,6 +98,8 @@ J. H. (2024) Comparing the Multivariate Relationships of Conceptual Adversity Mo
 McCann, C.F., +Clarot, G., Silvers, J.A. (2024, April). Adolescent and Young Adult Perspectives on Puberty. Presented in the “Advancement in pubertal markers and measurement” symposium at the Society for Research on Adolescence, Chicago, IL.
 
 **Posters**
+
+McCann, C.F., Cheng, T.W., & Silvers, J.A. (2024, September). Pubertal Timing, Tempo, and Structural Brain Development in the ABCD Study. Posted presented at the 12th Annual Flux Society for Development Cognitive Neuroscience Congress, Baltimore, MD. 
 
 McCann, C.F. & Silvers, J.A. (2023, September). Pubertal Timing and Affective Processing in the ABCD Study. Posted presented at the 11th Annual Flux Society for Development Cognitive Neuroscience Congress, Santa Rosa, CA. 
 
@@ -123,7 +127,7 @@ Teaching Assistant
 **Developmental Psychology** - Fall 2023 & Winter 2024 </br>
 Teaching Assistant
 
-**Developmental Psychology** - Spring 2024 </br>
+**Developmental Psychology** - Spring 2024 & Fall 2024 </br>
 Teaching Associate
 
 ## **_PROFESSIONAL EXPERIENCE_**:
